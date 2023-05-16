@@ -1,5 +1,7 @@
 # Task 3 WebSec
+
 ## Cyber Attack Map
+
 ![image](https://github.com/Khaders-sec/Task3-WebSec/assets/63330019/27902f3f-23bd-471d-aa01-513ad337451e)
 A cyber attack map is a visual representation of real-time or historical cyber attacks on a geographic map. These maps show the type, location, and origin of the attacks, as well as the target and severity of the attacks.
 
@@ -11,14 +13,19 @@ DDoS attacks overwhelm a server, network, or website with traffic from multiple 
 
 On the map, we can see that the United States is both the top target of attacks and the top source of attacks. This is likely due to the high number of servers and websites hosted in the U.S., as well as the high number of devices that can be compromised and used as part of a botnet to launch attacks. We can also see that the financial and technology industries are the most targeted, likely due to the sensitive nature of their data and the potential financial gain for attackers.
 
-
 The Digital Attack Map also includes a timeline view that shows the history of attacks over a period of time. This can be used to identify trends and patterns in the attacks and to track the effectiveness of mitigation strategies.
 
 In summary, cyber attack maps provide a valuable tool for understanding the global landscape of cyber attacks and identifying potential threats. The Digital Attack Map is just one example of how this information can be displayed in a clear and easy-to-understand way.
 
 ## DDos Attack
+
 For this attack we have used [MHDDoS](https://github.com/MatrixTM/MHDDoS) which is an opensource project that can be used for ddos attacks. It has many features! checkout thier docs.
 
 ![image](https://github.com/Khaders-sec/Task3-WebSec/assets/63330019/6e12f56a-965a-492a-b176-8e98e081ea60)
 
+## Other Cyber Attack Maps
 
+- ["KasperSky Attack Map"](https://cybermap.kaspersky.com/)
+- ["Horizon Attack Map"](https://horizon.netscout.com/)
+- ["FortiNet Attack Map"](https://threatmap.fortiguard.com/)
+- ["CheckPoint Attack Map"](https://threatmap.checkpoint.com/)
