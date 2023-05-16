@@ -39,3 +39,9 @@ We have used [SET](https://github.com/trustedsec/social-engineer-toolkit)
 We have used [HAWK](https://github.com/medpaf/hawk)
 
 ![image](https://github.com/Khaders-sec/Task3-WebSec/assets/63330019/8fcf4781-5ecc-4310-a186-b36eb8560cb9)
+
+We have noted these effects on the target:
+- Slow response
+- After a while the server totally crashed!
+  * After restarting we found failures in some scheduled jobs
+  * All cached data is lost
