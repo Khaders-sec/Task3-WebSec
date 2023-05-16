@@ -29,3 +29,13 @@ In summary, cyber attack maps provide a valuable tool for understanding the glob
 For this attack we have used [MHDDoS](https://github.com/MatrixTM/MHDDoS) which is an opensource project that can be used for ddos attacks. It has many features! checkout thier docs.
 
 ![image](https://github.com/Khaders-sec/Task3-WebSec/assets/63330019/6e12f56a-965a-492a-b176-8e98e081ea60)
+
+## Social Engineering
+We have used [SET](https://github.com/trustedsec/social-engineer-toolkit)
+![image](https://github.com/Khaders-sec/Task3-WebSec/assets/63330019/dd2d4a61-d95f-41e2-aca4-51a131eace85)
+![image](https://github.com/Khaders-sec/Task3-WebSec/assets/63330019/90127535-b606-44a3-b9a1-0187afde2a22)
+
+## Effects of syn flood
+We have used [HAWK](https://github.com/medpaf/hawk)
+
+![image](https://github.com/Khaders-sec/Task3-WebSec/assets/63330019/8fcf4781-5ecc-4310-a186-b36eb8560cb9)
